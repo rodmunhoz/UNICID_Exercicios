@@ -1,5 +1,4 @@
 from turtle import *
-
 raio = 5
 cor1 = "lime"
 cor2 = "white"

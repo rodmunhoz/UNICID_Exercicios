@@ -7,7 +7,7 @@ acertou = False
 tentativas = 0 
 
 while acertou != True:
-  tentativas += 1 #+= aumenta a variável em qualquer número
+  tentativas += 1 #aumenta a variável em qualquer número
   palpite = int(input("digite um número inteiro entre 1  e 10: "))
   if palpite == numero_certo:
     print("Você acertou o número", numero_certo, "em"     ,tentativas, "tentativas")
